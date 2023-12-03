@@ -1,6 +1,6 @@
 # Nonopoly
 
-_Demonstrate how a adaptable ruleset based on liquid democrasy leads to a prosperous humanity_
+_Demonstrate how a adaptable ruleset based on liquid democracy leads to a prosperous humanity_
 
 ## Context
 
